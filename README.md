@@ -6,7 +6,7 @@ Um desafio que te convida a praticar suas habilidades em programação, através
 # Desafio Dia 1
 Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
 
-let numeroUm = 1
+```let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30
 let stringTrinta = '30'
@@ -30,3 +30,4 @@ if (COMPARAR O numeroDez e a stringDez) {
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
+```
