@@ -2,6 +2,7 @@
 
 Um desafio que te convida a praticar suas habilidades em programação, através de desafios que você recebe no seu e-mail todos os dias, durante 07 dias.
 
+https://brunosabbagmachado.github.io/7DaysOfCode/
 
 # Desafio Dia 1
 Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
