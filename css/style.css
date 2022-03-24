@@ -1,11 +1,29 @@
 body {
     font-size: 24px;
     background-color: #eeeeee;
+    text-align: center;
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 40px;
     font-weight: bold;
     text-transform: uppercase;
-    color: rgb(0, 0, 167);
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 26px;
+    color: grey;
+    transition: 0.5s all;
+    padding: .5rem;
+}
+
+h2:hover {
+    color: black;
+    font-size: 30px;
 }
