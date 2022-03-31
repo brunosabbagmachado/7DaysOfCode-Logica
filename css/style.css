@@ -16,7 +16,7 @@ body {
     font-size: 40px;
     font-weight: bold;
     text-transform: uppercase;
-    color: #000;
+    color: #FFF;
     padding: 1rem;
     box-sizing: border-box;
     background-color: #666666;
@@ -58,7 +58,7 @@ body {
 }
 
 .conteudo {
-    padding-left: 1rem;
+
     color: #a0a0a0;
     font-size: 26px;
     text-align: center;
@@ -73,6 +73,7 @@ body {
 .botao__voltar {
     font-size: 20px;
     padding: .4rem .8rem;
+    text-align: center;
     color: #000;
     background-color: orange;
     font-weight: bold;
